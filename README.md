@@ -235,6 +235,8 @@ This allows FieldForge to adapt to organization-specific log formats without mod
 
 ![Rules](assets/Rules.png)
 
+![Apply_Rul](assets/Apply_Rule.png)
+
 ---
 
 # Performance
@@ -273,8 +275,6 @@ FieldForge does not.
 Sensitive security logs never leave your environment.
 
 This makes FieldForge suitable for isolated networks, forensic laboratories, and environments where confidentiality is critical.
-
-![Main](assets/Main.png)
 
 ---
 
