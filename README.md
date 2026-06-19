@@ -1,4 +1,4 @@
-![Logo](assets/Logo.png)
+<img src="assets/banner.png" style="border-radius:20px;">
 
 # Behind the Design
 
