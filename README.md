@@ -1,5 +1,4 @@
-<img src="assets/Logo.png" style="border-radius:20px;">
-
+![Logo](assets/Logo.png)
 # Behind the Design
 
 FieldForge was created around a simple observation: **security analysts spend far too much time preparing data before they can actually investigate it.**
