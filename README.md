@@ -296,3 +296,9 @@ FieldForge is intended for professionals who regularly work with heterogeneous l
 Whether the log comes from a commercial appliance, an open-source service, or a custom application, the objective remains the same:
 
 **Transform unstructured text into consistent, analyzable security data within minutes.**
+
+---
+
+# 👤 Author
+**Sohaib JadAllah** - cybersecurity / blue‑team & systems developer.
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/sohaibjadallah)
