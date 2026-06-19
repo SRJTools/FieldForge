@@ -124,7 +124,7 @@ The detection engine currently includes built-in recognizers for:
 * URI Paths
 * HTTP Methods
 * HTTP Status Codes
-*Others
+* Others
 
 Each detector operates independently, allowing multiple field types to be discovered within a single log line.
 
