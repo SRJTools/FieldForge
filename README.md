@@ -1,4 +1,4 @@
-<img src="assets/banner.png" style="border-radius:20px;">
+<img src="assets/Logo.png" style="border-radius:20px;">
 
 # Behind the Design
 
