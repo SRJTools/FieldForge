@@ -299,6 +299,17 @@ Whether the log comes from a commercial appliance, an open-source service, or a 
 
 ---
 
+## Installation (End Users)
+
+- Download the latest release from [GitHub Releases](https://github.com/SRJTools/FieldForge/releases/latest).
+- Run `FieldForge-1.0.0-Setup.exe`.
+- Install and launch the tool from Desktop or Start Menu.
+- Import any log file and start analysis instantly.
+
+FieldForge is fully self-contained no external runtimes, no internet connection, and no additional configuration required.
+
+---
+
 # 👤 Author
 **Sohaib JadAllah** - cybersecurity / blue‑team & systems developer.
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/sohaibjadallah)
